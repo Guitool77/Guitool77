@@ -13,6 +13,7 @@ Double culture :
 **Objectif : faire décoller des projets à impact qui méritent d’aller loin.**
 
 Disponible pour advisory, co-fondation, CTO fractional, mission ciblée ou CDI, sur des projets alignés tech + sens + financement.
+
 Guillaume BONIFAS
 
 https://guillaumebonifas.com
@@ -36,6 +37,7 @@ A dual focus:
 **Mission: help impact-driven projects take off and go the distance.**
 
 Open for advisory, co-founding, fractional CTO, targeted missions or full-time roles — on projects aligned with tech + meaning + funding.
+
 Guillaume BONIFAS
 
 https://guillaumebonifas.com
