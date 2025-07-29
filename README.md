@@ -17,9 +17,9 @@ Guillaume BONIFAS
 
 https://guillaumebonifas.com
 https://discordapp.com/users/1086219816366510080
-Linkedin : in/guillaumebonifas
-X : @bonifasguillaum
-fb : guillaume.bonifas
+https://www.linkedin.com/in/guillaumebonifas
+https://x.com/bonifasguillaum
+https://www.facebook.com/guillaume.bonifas
 
 ---
 
@@ -40,9 +40,9 @@ Guillaume BONIFAS
 
 https://guillaumebonifas.com
 https://discordapp.com/users/1086219816366510080
-Linkedin : in/guillaumebonifas
-X : @bonifasguillaum
-fb : guillaume.bonifas
+https://www.linkedin.com/in/guillaumebonifas
+https://x.com/bonifasguillaum
+https://www.facebook.com/guillaume.bonifas
 
 ---
 
