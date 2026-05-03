@@ -10,7 +10,7 @@ Double culture :
 - Exécution technique (mécatronique, IA embarquée, CNC & composites, POC → MVP)
 - Pilotage stratégique (roadmap, vision produit, levée, KPI VC-friendly)
 
-**Objectif : faire décoller des projets à impact qui méritent d’aller loin.**
+**Objectif : faire décoller des projets à impact pour les emmener loin.**
 
 Disponible pour advisory, co-fondation, CTO fractional, mission ciblée ou CDI, sur des projets alignés tech + sens + financement.
 
